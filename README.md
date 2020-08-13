@@ -45,3 +45,6 @@
     - [ ] ...
 - [ ] Angular
     - [ ] ...
+- [ ] Patterns
+- [ ] Docker basics
+
