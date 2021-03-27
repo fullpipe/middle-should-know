@@ -4,7 +4,8 @@
 
 - [ ] Html
 - [ ] CSS
-- [ ] scss
+    - [ ] BEM/SMACSS
+- [ ] scss/less/stylus
 - [ ] javascript
     - [ ] types
     - [ ] operators
@@ -40,11 +41,12 @@
     - [ ] what is it?
     - [ ] Able to configure project from zero
 - [ ] Typescript
-    - [ ] ...
+    - [ ] types, interfaces
 - [ ] RxJS
-    - [ ] ...
-- [ ] Angular
-    - [ ] ...
+    - [ ] observables, subjects, operators
+- [ ] Angular/React/Vue
 - [ ] Patterns
 - [ ] Docker basics
+- [ ] Linux (Basics)
+- [ ] Unit tests
 
