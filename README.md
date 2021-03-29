@@ -5,7 +5,7 @@
 - [ ] Html
 - [ ] CSS
     - [ ] BEM/SMACSS
-- [ ] scss/less/stylus
+    - [ ] scss/less/stylus
 - [ ] javascript
     - [ ] types
     - [ ] operators
@@ -43,7 +43,9 @@
 - [ ] Typescript
     - [ ] types, interfaces
 - [ ] RxJS
-    - [ ] observables, subjects, operators
+    - [ ] observables,
+    - [ ] subjects (basics),
+    - [ ] operators (basics)
 - [ ] Angular/React/Vue
 - [ ] Patterns
 - [ ] Docker basics
